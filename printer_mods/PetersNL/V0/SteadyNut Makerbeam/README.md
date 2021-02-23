@@ -8,7 +8,7 @@ This little mod will turn ordinary M3 nuts into t-nuts for Makerbeam XL extrusio
 # Note
 Please keep in mind that using these SteadyNuts will decrease the depth of the bolts by 1mm:
 
-![Picture3](./Pictures/3.jpg)
+![Picture3](./Pictures/3.png)
 
 # Credits
 This mod was directly inspired by Discord user `zruncho V0.078` after he posted pictures of his SteadyNut made for LDO profiles.
